@@ -2,7 +2,7 @@ import datetime
 params ={   'cancelinvoices': '/api/cancelinvoice.json',
     'clients': '/api/clients.json',
     'errors': '/api/logs.json',
-    'init': 1,
+    'init': 0,
     'interval': '1800',
     'invoices': '/api/invoices.json',
     'log_error_file': 'errors.log',

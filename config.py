@@ -13,7 +13,7 @@ params ={   'cancelinvoices': '/api/cancelinvoice.json',
     'owners': '/api/owners.json',
     'port': '80',
     'products': '/api/products.json',
-    'stopper' : 0,
+    'stopper' : 1,
     'time_init': datetime.datetime(2014, 3, 31, 12, 31, 45, 643632),
     'time_load': datetime.datetime(2014, 3, 31, 12, 29, 0, 250172),
     'url': 'http://xdata.lealtag.com'}

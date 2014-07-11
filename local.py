@@ -5,4 +5,4 @@ local ={   'address': 'SAN LUIS',
     'no_id': ['1'],
     'rif': 'J-1234asdas0-8'}
 configs ={   'dbfilepattern': '*.DBF',
-    'dbfolder': 'C:\\Users\\Carlos\\Documents\\MobaXterm\\home\\Nueva carpeta'}
+    'dbfolder': 'C:\\Aloha'}

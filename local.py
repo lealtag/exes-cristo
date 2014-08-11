@@ -1,8 +1,10 @@
-local ={   'address': 'SAN LUIS',
-    'id': 'Artegelato01',
-    'legal_name': 'Arte Gelato Los Naranjos',
-    'name': 'Arte Gelato',
-    'no_id': [''],
-    'rif': 'J-1234asdas0-8'}
-configs ={   'dbfilepattern': '*.DBF',
-    'dbfolder': 'C:\\Users\\Carlos\\Desktop\\BDs\\ArteGelato\\Data'}
+local ={   'address': 'AEROPUERTO INTERNACIONAL SIMON BOLIVAR',
+    'id': 'Yogurfit02',
+    'legal_name': 'Inversiones heladitos magicos',
+    'name': 'Yogurfit Maiquetia',
+    'rif': 'J-1234566000-8'}
+configs ={   'db': 'micros',
+    'driver': '{SQL Server}',
+    'password': 'micros3700',
+    'server': 'sqlLT-1',
+    'user': 'dba'}

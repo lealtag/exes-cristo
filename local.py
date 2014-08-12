@@ -1,7 +1,7 @@
-local ={   'address': 'AEROPUERTO INTERNACIONAL SIMON BOLIVAR',
-    'id': 'Yogurfit02',
+local ={   'address': 'CENTRO COMERCIAL XPRESS MACARACUAY',
+    'id': 'Yogurfit03',
     'legal_name': 'Inversiones heladitos magicos',
-    'name': 'Yogurfit Maiquetia',
+    'name': 'Ypgurfit Xpress Macaracuay',
     'rif': 'J-1234566000-8'}
 configs ={   'db': 'micros',
     'driver': '{SQL Server}',

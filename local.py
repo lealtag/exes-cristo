@@ -6,5 +6,5 @@ local ={   'address': 'CENTRO COMERCIAL XPRESS MACARACUAY',
 configs ={   'db': 'micros',
     'driver': '{SQL Server}',
     'password': 'micros3700',
-    'server': 'sqlLT-1',
+    'server': 'sqlMICROS-HP',
     'user': 'dba'}

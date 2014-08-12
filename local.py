@@ -1,8 +1,8 @@
-local ={   'address': 'SAN LUIS',
+local ={   'address': 'CENTRO COMERCIAL GALERIAS LOS NARANJOS',
     'id': 'Artegelato01',
-    'legal_name': 'Arte Gelato Los Naranjos',
-    'name': 'Arte Gelato',
+    'legal_name': 'Xoco Venezuela - Los Naranjos',
+    'name': 'Xoco Venezuela,
     'no_id': [''],
     'rif': 'J-1234asdas0-8'}
 configs ={   'dbfilepattern': '*.DBF',
-    'dbfolder': 'C:\\Users\\Carlos\\Desktop\\BDs\\ArteGelato\\Data'}
+    'dbfolder': 'C:\\Rest\\Data'}

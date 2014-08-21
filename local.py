@@ -1,6 +1,6 @@
-local ={   'address': 'CENTRO COMERCIAL GALERIAS LOS NARANJOS',
-    'id': 'Artegelato01',
-    'legal_name': 'Xoco Venezuela - Los Naranjos',
+local ={   'address': 'CENTRO COMERCIAL LIDER',
+    'id': 'Artegelato02',
+    'legal_name': 'Xoco - C.C. Lider',
     'name': 'Xoco Venezuela',
     'no_id': [''],
     'rif': 'J-1234asdas0-8'}

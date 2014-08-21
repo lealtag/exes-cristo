@@ -1,7 +1,7 @@
-local ={   'address': 'CENTRO COMERCIAL LIDER',
-    'id': 'Artegelato02',
-    'legal_name': 'Xoco - C.C. Lider',
-    'name': 'Xoco Venezuela',
+local ={   'address': 'CENTRO COMERCIAL VALLE ARRIBA MARKET CENTER',
+    'id': 'Artegelato03',
+    'legal_name': 'Artegelato - C.C. Valle Arriba Market Center',
+    'name': 'Artegelato - C.C. Valle Arriba Market',
     'no_id': [''],
     'rif': 'J-1234asdas0-8'}
 configs ={   'dbfilepattern': '*.DBF',

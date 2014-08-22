@@ -1,7 +1,7 @@
-local ={   'address': 'CENTRO COMERCIAL VALLE ARRIBA MARKET CENTER',
-    'id': 'Artegelato03',
-    'legal_name': 'Artegelato - C.C. Valle Arriba Market Center',
-    'name': 'Artegelato - C.C. Valle Arriba Market',
+local ={   'address': 'CENTRO COMERCIAL EL RECREO, NIVEL PLAZA',
+    'id': 'Artegelato04',
+    'legal_name': 'Artegelato - C.C. El Recreo N. Plaza',
+    'name': 'Artegelato - C.C. El Recreo N. Plaza',
     'no_id': [''],
     'rif': 'J-1234asdas0-8'}
 configs ={   'dbfilepattern': '*.DBF',

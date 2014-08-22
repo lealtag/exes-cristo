@@ -1,7 +1,7 @@
-local ={   'address': 'CENTRO COMERCIAL COSTA AZUL',
-    'id': 'Artegelato05',
-    'legal_name': 'Artegelato - C.C. Costa Azul',
-    'name': 'Artegelato - C.C. Costa Azul',
+local ={   'address': 'CENTRO COMERCIAL SAN IGNACIO',
+    'id': 'Artegelato06',
+    'legal_name': 'Artegelato - C.C. San Ignacio',
+    'name': 'Artegelato - C.C. San Ignacio',
     'no_id': [''],
     'rif': 'J-1234asdas0-8'}
 configs ={   'dbfilepattern': '*.DBF',

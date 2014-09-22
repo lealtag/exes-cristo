@@ -1,10 +1,11 @@
-local ={   'address': 'CENTRO COMERCIAL XPRESS MACARACUAY',
-    'id': 'Yogurfit04',
-    'legal_name': 'Inversiones heladitos magicos',
-    'name': 'Ypgurfit Xpress Macaracuay',
-    'rif': 'J-1234566000-8'}
-configs ={   'db': 'micros',
-    'driver': '{SQL Server}',
-    'password': 'micros3700',
-    'server': 'sqlMICROSSVC',
-    'user': 'dba'}
+local ={   'address': '',
+    'id': 'Autovip01',
+    'legal_name': '',
+    'name': '',
+    'no_id': [''],
+    'rif': 'J-1234asdas0-8'}
+configs ={   'dbfilepattern': '*.DBF',
+    'dbfolder': 'C:\\profit\\profit_a\\VIP',
+    'iteradorC': 0,
+    'iteradorD': 29000,
+    'iteradorH': 14000}

@@ -14,6 +14,6 @@ params ={   'cancelinvoices': '/api/cancelinvoice.json',
     'port': '80',
     'products': '/api/products.json',
     'stopper': 0,
-    'time_init': datetime.datetime(2014, 8, 1, 16, 9, 38, 783449),
-    'time_load': datetime.datetime(2014, 8, 1, 17, 6, 39, 950852),
-    'url': 'http://xdata.lealtag.com'}
+    'time_init': datetime.datetime(2014, 10, 1, 1, 1, 1, 783449),
+    'time_load': datetime.datetime(2014, 10, 1, 1, 1, 1, 950852),
+    'url': 'http://xdev.lealtag.com'}
